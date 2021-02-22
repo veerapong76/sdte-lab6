@@ -33,4 +33,3 @@ jobs:
           file: ./Dockerfile
           tags: veerapong76/sdte_lab5:latest
           push: true
-
